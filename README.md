@@ -1,5 +1,7 @@
 # Student-Teacher Intranet Platform Project
 
+![WhatsApp Image 2024-04-23 at 15 03 39](https://github.com/Takashi-91/IkamvaYouth-Website/assets/155132652/49ed4bd6-ecc5-4bf3-ac28-f1df01b11ff9)
+
 ## Assignment Description
 This project is focused on creating a Student-Teacher Intranet platform to boost communication and collaboration within the educational community. It aims to provide a seamless and efficient environment for both teaching and administrative processes.
 
