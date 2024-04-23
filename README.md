@@ -1,36 +1,28 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Assignment Description:
+Our project revolves around the development of a Student-Teacher Intranet platform aimed 
+at enhancing communication and collaboration within the educational community.
+Group Members and Duties:
+Project Manager: Precious Palesa Molele
+Responsible for overseeing project timelines, milestones, and team coordination.
+Software Developer Lead: Madimetja Terence Chuene
+Leads the software development efforts, ensuring the successful setup of the project 
+environment and integration of Firebase.
+Business Analyst: Sthembiso Jonas Mahlangu
+Analyzes project requirements, refines documentation, and contributes to the database 
+structure design.
+Software Designer: Khumoetsile Motlhamme
+Designs the user interface and user experience, ensuring an intuitive and visually appealing 
+platform.
+Secretary: Mfundo Matjeke
+Assists in administrative tasks and supports the team with documentation management.
+Current Progress:
+Website Development:
+Currently in the planning phase. No significant progress to report yet.
+Application Development:
+Project environment set up using Kotlin in Android Studio.
+Firebase integration in progress, focusing on user authentication and real-time database 
+functionalities.
+Documentation:
+Comprehensive documentation is being prepared, detailing project scope, database structure, UI/UX 
+design, and development process.
+Documentation efforts are ongoing and will continue to be refined as the project progresses
