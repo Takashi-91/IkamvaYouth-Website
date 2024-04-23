@@ -30,7 +30,9 @@ This project is focused on creating a Student-Teacher Intranet platform to boost
 
 ### Documentation
 - **Status**: Comprehensive documentation is being prepared, detailing the project scope, database structure, UI/UX design, and development process. Documentation efforts are ongoing and will be continuously refined as the project progresses.
+
+
 ### Mock-Up Designer
--Intranet & Website- https://www.figma.com/file/Qjp07bH8CynIBw6xgNznla/IkamvaYouth-Intranet?type=design&node-id=0%3A1&mode=design&t=kyNYgGcfOhMON9hQ-1
+-**Intranet & Website**: https://www.figma.com/file/Qjp07bH8CynIBw6xgNznla/IkamvaYouth-Intranet?type=design&node-id=0%3A1&mode=design&t=kyNYgGcfOhMON9hQ-1
 ## Summary
 The team is working diligently to ensure the platform is user-friendly, robust, and meets the needs of the educational community. Updates on the progress will be provided as each phase of the project advances.
